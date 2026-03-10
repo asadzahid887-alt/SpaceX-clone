@@ -120,7 +120,7 @@
 .imgbg{
       background: 
     linear-gradient(rgba(36, 36, 36, 0.131), rgba(0, 0, 0, 0.691)), /* dark overlay */
-    url("/Revolutionizing_Space_Tech_Desktop_ec67ad03c2.jpg");
+    url("Revolutionizing_Space_Tech_Desktop_ec67ad03c2.jpg");
 
   background-size: cover;       /* Make image cover container */
   background-position: center;  /* Center the image */
@@ -223,7 +223,7 @@
 
 
 .imgbg2{
-    background:  url("/Advancing_Human_Spaceflight_Desktop_61c8ba1c67.jpg");
+    background:  url("Advancing_Human_Spaceflight_Desktop_61c8ba1c67.jpg");
 }
 
 .sect4-h1{
